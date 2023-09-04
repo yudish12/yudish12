@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS,Kubernetes**
 
-- 💬 Ask me about **Reactjs,ReactNative,Nodejs,PHP,PostgreSql,MongoDB**
+- 💬 Ask me about **Reactjs,ReactNative,Nodejs,Python,PostgreSql,MongoDB**
 
 - 📫 How to reach me **yudishchakrawarty3042@gmail.com**
 
